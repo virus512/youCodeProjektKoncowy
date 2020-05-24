@@ -1,6 +1,6 @@
 (() => {
-    const button = document.querySelector("js-main-navigation__mobile-button");
-    const menu = document.querySelector("js-main-navigation__menu");
+    const button = document.querySelector(".js-main-navigation__mobile-button");
+    const menu = document.querySelector(".js-main-navigation__menu")
 
 
     const toggleClass = () => {
