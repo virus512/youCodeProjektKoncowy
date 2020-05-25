@@ -6,3 +6,7 @@
     padding: 60px 30px;
     
 }
+
+.container--smaller{
+    width: 940px;
+}
